@@ -42,7 +42,7 @@ What if I need halp!
 
 You can ask on `Telegram group chat <https://t.me/vpnathome>`_ or mail me (e-mail in git history).
 
-Show me the screenshots
+Show me the screenshot
 -----------------------
 
 .. image:: home.png
